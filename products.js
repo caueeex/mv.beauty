@@ -15,7 +15,7 @@ const products = [
         ],
         ingredients: "Partículas naturais, fragrância, extratos vegetais",
         images: [
-            "/mvbeauty/img/esfoliante-poran-bumbum.jpg"
+            "esfoliante-poran-bumbum.jpg"
         ],
         category: "skincare",
         quantity: 2
@@ -36,7 +36,7 @@ const products = [
         ],
         ingredients: "Ácido hialurônico, vitamina E, extratos vegetais",
         images: [
-            "/mvbeauty/img/serum-maxlove.png"
+            "serum-maxlove.png"
         ],
         category: "skincare",
         quantity: 4
@@ -57,7 +57,7 @@ const products = [
         ],
         ingredients: "Vitamina C, ácido hialurônico, extratos vegetais",
         images: [
-            "/mvbeauty/img/serumfacial-maxlove.jpeg"
+            "serumfacial-maxlove.jpeg"
         ],
         category: "skincare",
         quantity: 4
@@ -78,7 +78,7 @@ const products = [
         ],
         ingredients: "Extrato de melancia, partículas naturais, fragrância",
         images: [
-            "/mvbeauty/img/esfoliante-melancia.png"
+            "esfoliante-melancia.png"
         ],
         category: "skincare",
         quantity: 3
@@ -99,7 +99,7 @@ const products = [
         ],
         ingredients: "Extrato de morango, partículas naturais, fragrância",
         images: [
-            "/mvbeauty/img/esfoliante-morango.png"
+            "esfoliante-morango.png"
         ],
         category: "skincare",
         quantity: 3
@@ -120,7 +120,7 @@ const products = [
         ],
         ingredients: "Extrato de pitaya, partículas naturais, fragrância",
         images: [
-            "/mvbeauty/img/esfoliante-pitaya.png"
+            "esfoliante-pitaya.png"
         ],
         category: "skincare",
         quantity: 2
@@ -141,7 +141,7 @@ const products = [
         ],
         ingredients: "Óleo de rosa mosqueta, vitamina E, silicones",
         images: [
-            "/mvbeauty/img/primer-rosa.png"
+            "primer-rosa.png"
         ],
         category: "makeup",
         quantity: 2
@@ -163,7 +163,7 @@ const products = [
         ],
         ingredients: "Óleo de rícino, vitamina E, pigmentos",
         images: [
-            "/mvbeauty/img/gloss-maxlove.png"
+            "gloss-maxlove.png"
         ],
         category: "makeup",
         quantity: 5
@@ -184,7 +184,7 @@ const products = [
         ],
         ingredients: "Poliéster, elástico",
         images: [
-            "/mvbeauty/img/faixa-cabelo.png"
+            "faixa-cabelo.png"
         ],
         category: "acessorio",
         quantity: 1
