@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Produto - MV.Beauty</title>
+    <meta name="description" content="Detalhes do produto MV.Beauty">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <svg class="heart-icon" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
+                    </svg>
+                    <h1>MV<span class="accent">.Beauty</span></h1>
+                </div>
+                <p class="tagline">Beleza Natural • Produtos Premium • Resultados Visíveis</p>
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <button class="back-button" onclick="goBack()">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                    <path d="M19 12H5M12 19l-7-7 7-7"/>
+                </svg>
+                Voltar ao catálogo
+            </button>
+
+            <div class="product-detail" id="product-detail">
+                <!-- Product details will be loaded here by JavaScript -->
+            </div>
+        </div>
+    </main>
+
+    <script src="products.js"></script>
+    <script src="script.js"></script>
+    <script>
+        // Load product details when page loads
+        document.addEventListener('DOMContentLoaded', loadProductDetail);
+    </script>
+</body>
+</html>
