@@ -15,7 +15,7 @@ const products = [
         ],
         ingredients: "Partículas naturais, fragrância, extratos vegetais",
         images: [
-            "logo.png"
+            "esfoliante-poran-bumbum.jpg"
         ],
         category: "skincare",
         quantity: 2
