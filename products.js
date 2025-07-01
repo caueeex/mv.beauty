@@ -207,5 +207,5 @@ const products = [
             "faixa-cabelo.png"
         ],
         category: "acessorio",
-        quantity: 5,
+        quantity: 5
     },
