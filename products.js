@@ -190,3 +190,22 @@ const products = [
         quantity: 5,
     }
 ];
+ id: 11,
+        name: "Escova Massageadora",
+        subtitle: "Acessório de uso capilar que auxilia na limpeza ´profunda do couro cabeludo",
+        price: 6,00,
+        shortDescription: "Escova Massageadora capilar para rotina de beleza.",
+        description: "A Faixa de Cabelo é ideal para prender os fios durante a rotina de skincare ou maquiagem. Confortável, ajustável e prática para o dia a dia.",
+        benefits: [
+            "Confortável e macio",
+            "Ideal para lavagens e aplicação de tônicos",
+            "Mantém o cabelo limpo e sem caspas",
+            "Material macio"
+        ],
+        ingredients: "Silicone",
+        images: [
+            "faixa-cabelo.png"
+        ],
+        category: "acessorio",
+        quantity: 5,
+    },
