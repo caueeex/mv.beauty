@@ -171,11 +171,11 @@ const products = [
     // Faixa de Cabelo
     {
         id: 9,
-        name: "Faixa de Cabelo Max Love",
+        name: "Faixa de Cabelo",,
         subtitle: "Acessório para Skincare e Maquiagem",
         price: 9.90,
         shortDescription: "Faixa de cabelo confortável para rotina de beleza.",
-        description: "A Faixa de Cabelo Max Love é ideal para prender os fios durante a rotina de skincare ou maquiagem. Confortável, ajustável e prática para o dia a dia.",
+        description: "A Faixa de Cabelo é ideal para prender os fios durante a rotina de skincare ou maquiagem. Confortável, ajustável e prática para o dia a dia.",
         benefits: [
             "Confortável e ajustável",
             "Ideal para skincare e maquiagem",
@@ -187,6 +187,6 @@ const products = [
             "faixa-cabelo.png"
         ],
         category: "acessorio",
-        quantity: 1
+        quantity: 5,
     }
 ];
