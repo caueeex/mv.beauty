@@ -205,7 +205,7 @@ const products = [
         images: [
             "esfoliante-poran-bumbum.jpg"
         ],
-        category: "skincare",
+        category: "Cuidados Corporais",
         quantity: 2
     },
 ];
