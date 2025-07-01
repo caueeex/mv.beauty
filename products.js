@@ -204,7 +204,7 @@ const products = [
         ],
         ingredients: "Silicone",
         images: [
-            "faixa-cabelo.png"
+            "faixa para cabelo.jpg"
         ],
         category: "acessorio",
         quantity: 5
