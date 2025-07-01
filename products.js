@@ -184,7 +184,7 @@ const products = [
         ],
         ingredients: "Poliéster, elástico",
         images: [
-            "faixa-cabelo.png"
+            "faixa-paracabelo.jpg"
         ],
         category: "acessorio",
         quantity: 5,
