@@ -171,7 +171,7 @@ const products = [
     // Faixa de Cabelo
     {
         id: 9,
-        name: "Faixa de Cabelo",,
+        name: "Faixa de Cabelo",
         subtitle: "Acessório para Skincare e Maquiagem",
         price: 9.90,
         shortDescription: "Faixa de cabelo confortável para rotina de beleza.",
@@ -187,6 +187,6 @@ const products = [
             "faixa-cabelo.png"
         ],
         category: "acessorio",
-        quantity: 5,
+        quantity: 5
     }
 ];
