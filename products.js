@@ -188,5 +188,24 @@ const products = [
         ],
         category: "acessorio",
         quantity: 1
-    }
+    } {
+        id: 10,
+        name: "Esfoliante de Pitaya Porán",
+        subtitle: "Esfoliante Corpo e Rosto
+        price: 17.90,
+        shortDescription: "Esfoliante Para corpo e rosto, maciex profunda.",
+        description: "O Esfoliante de Pitaya promove renovação celular, maciez e suavidade para a pele. Com partículas naturais e fragrância refrescante.",
+        benefits: [
+            "Esfoliação suave",
+            "Renovação celular",
+            "Pele macia e perfumada",
+            "Uso corporal"
+        ],
+        ingredients: "Partículas naturais, fragrância, extratos vegetais",
+        images: [
+            "esfoliante-poran-bumbum.jpg"
+        ],
+        category: "skincare",
+        quantity: 2
+    },
 ];
