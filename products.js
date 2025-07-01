@@ -184,7 +184,7 @@ const products = [
         ],
         ingredients: "Poliéster, elástico",
         images: [
-            "faixa-paracabelo.jpg"
+            "Faixa para Cabelo.jpg"
         ],
         category: "acessorio",
         quantity: 5,
@@ -204,7 +204,7 @@ const products = [
         ],
         ingredients: "Silicone",
         images: [
-            "faixa para cabelo.jpg"
+            "Faixa para Cabelo.jpg"
         ],
         category: "acessorio",
         quantity: 5
