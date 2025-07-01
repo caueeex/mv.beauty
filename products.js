@@ -188,9 +188,9 @@ const products = [
         ],
         category: "acessorio",
         quantity: 5,
-    }
-];
- id: 11,
+    },
+    {
+        id: 11,
         name: "Escova Massageadora",
         subtitle: "Acessório de uso capilar que auxilia na limpeza ´profunda do couro cabeludo",
         price: 6,00,
@@ -209,3 +209,4 @@ const products = [
         category: "acessorio",
         quantity: 5
     },
+];
