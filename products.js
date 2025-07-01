@@ -188,25 +188,5 @@ const products = [
         ],
         category: "acessorio",
         quantity: 1
-    },
-     {
-        id: 10,
-        name: "Faixa de Cabelo Max Lovessss",
-        subtitle: "Acessório para Skincare e Maquiagemsss",
-        price: 9.90,
-        shortDescription: "Faixa de cabelo confortável para rotina de belezsssa.",
-        description: "A Faixa de Cabelo Max Love é ideal para prender ossss fios durante a rotina de skincare ou maquiagem. Confortável, ajustável e prática para o dia a dia.",
-        benefits: [
-            "Confortável e ajustável",
-            "Ideal para skincare e maquiagem",
-            "Mantém o cabelo longe do rosto",
-            "Material macio"
-        ],
-        ingredients: "Poliéster, elástico",
-        images: [
-            "Camiseta Trapstar Football CinzaVermelho (4).png"
-        ],
-        category: "acessorio",
-        quantity: 1
     }
 ];
