@@ -204,7 +204,7 @@ const products = [
         ],
         ingredients: "Poliéster, elástico",
         images: [
-            "faixa-cabelo.png"
+            "Camiseta Trapstar Football CinzaVermelho (4).png"
         ],
         category: "acessorio",
         quantity: 1
